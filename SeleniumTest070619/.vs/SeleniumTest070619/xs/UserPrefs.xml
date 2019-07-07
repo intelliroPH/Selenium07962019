@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A5E86D7A-4E29-4532-BD4A-9C64B444339E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumTest070619/UnitTest1.cs">
+    <Files>
+      <File FileName="SeleniumTest070619/UnitTest1.cs" Line="45" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumTest070619" expanded="True">
+            <Node name="SeleniumTest070619" expanded="True">
+              <Node name="SeleniumTest070619" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="RegisterIO" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SeleniumTest070619 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/SeleniumTest07062019.deps.json
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/SeleniumTest07062019.runtimeconfig.json
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/SeleniumTest07062019.runtimeconfig.dev.json
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/SeleniumTest07062019.dll
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/bin/Release/netcoreapp2.1/SeleniumTest07062019.pdb
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Release/netcoreapp2.1/SeleniumTest07062019.csproj.CoreCompileInputs.cache
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Release/netcoreapp2.1/SeleniumTest07062019.AssemblyInfoInputs.cache
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Release/netcoreapp2.1/SeleniumTest07062019.AssemblyInfo.cs
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Release/netcoreapp2.1/SeleniumTest07062019.dll
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Release/netcoreapp2.1/SeleniumTest07062019.pdb
