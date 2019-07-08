@@ -2,7 +2,6 @@
 using System.Threading;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
 using SeleniumTest07062019.Lib;
 using SeleniumTest07062019.Pages;
 
@@ -30,6 +29,8 @@ namespace SeleniumTest07062019
         {
             _test.InitializeBrowser();
             _login.LoginUser();
+            //wait for element sample
+            _test.WaitForElement(By.ClassName("ClassName"));
             _dash.LogoutUser();
         }
 

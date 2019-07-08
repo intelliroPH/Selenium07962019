@@ -26,10 +26,6 @@ namespace SeleniumTest07062019.Pages
         public void LoginUser()
         {
             IWebDriver browser = _test.browser;
-
-            browser.FindElement(By.Name("email")).SendKeys("webdrivertest101@gmail.com");
-            browser.FindElement(By.Name("pass")).SendKeys(pw + Keys.Enter);
-
             browser.FindElement(emailAdd).SendKeys(email);
             browser.FindElement(password).SendKeys(pw + Keys.Enter);
             Thread.Sleep(5000);

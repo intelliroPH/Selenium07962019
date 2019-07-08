@@ -11,3 +11,4 @@
 /Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Debug/netcoreapp2.1/SeleniumTest07062019.AssemblyInfo.cs
 /Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Debug/netcoreapp2.1/SeleniumTest07062019.dll
 /Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Debug/netcoreapp2.1/SeleniumTest07062019.pdb
+/Users/airratic/Projects/SeleniumTest07062019/SeleniumTest07062019/obj/Debug/netcoreapp2.1/SeleniumTest07062019.csprojAssemblyReference.cache
